@@ -18,4 +18,9 @@ Este repositorio contiene los ejercicios y retos de automatización propuestos p
   - Implementación de flujos de trabajo con n8n.
   - Integración de componentes para solucionar la dolencia.
 
+- [Semana 4: Sistema RAG y Supabase Vectorial](semana-4/README.md)
+  - Base de datos vectorial con Supabase (pgvector).
+  - Tareas de chunking y embeddings desde n8n.
+  - Generación de respuestas enriquecidas con contexto (RAG).
+
 Selecciona la semana en la que te encuentras trabajando para revisar los requisitos completos del desafío.
